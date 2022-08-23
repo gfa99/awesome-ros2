@@ -44,6 +44,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking) - Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
 - [performance_test](https://github.com/ApexAI/performance_test) - Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro. ![performance_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
+- [ros2-performance](https://github.com/irobot-ros/ros2-performance) - iRobot ROS 2 Performance Evaluation Framework. ![ros2-performance](https://img.shields.io/github/stars/irobot-ros/ros2-performance.svg)
 
 ### Containerization
 
